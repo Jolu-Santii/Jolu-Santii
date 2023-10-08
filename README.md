@@ -4,19 +4,19 @@
 <img align="center" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=50&lines=Estudiante+de+la&startFromZero=true">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=1500&height=50&lines=Estudiante+de+la&startFromZero=true">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=50&lines=Benemérita+Universidad+Autónoma+de+Puebla&startFromZero=true">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=1500&height=50&lines=Benemérita+Universidad+Autónoma+de+Puebla&startFromZero=true">
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=900&height=50&lines=Facultad+Ciencias+de+la+Computación&startFromZero=true">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=1500&height=50&lines=Facultad+Ciencias+de+la+Computación&startFromZero=true">
   </a>
 </p>
 
