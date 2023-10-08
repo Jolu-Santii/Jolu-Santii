@@ -35,6 +35,7 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación de la BUAP y ten
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br>
+
 - 💻 Desarrollo de software
 - 📚 Aprendizaje automático e inteligencia artificial
 - 🌐 Desarrollo web
