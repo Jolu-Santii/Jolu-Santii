@@ -55,7 +55,8 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación de la BUAP y ten
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/luis0.huicho/) 
 <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/jolu_santii)
-<a href="mailto:huicho-santi-i@hotmail.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+<a href="mailto:old_lap_2022@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+<a href="mailto:j.antonio-rm@outlook.com?subject=Feedback%20From%20Github&body=Hello," target="_blank">
 <!--[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)]()
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white&style=for-the-badge)]()
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)]()
