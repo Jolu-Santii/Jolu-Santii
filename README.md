@@ -51,9 +51,8 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación de la BUAP y ten
 <div align="center">
 
 <a href="mailto:l57527390@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="@LuisSan"  />
-<a href="https://www.youtube.com/@luissan1881" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@luissan1881"  />
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white&style=for-the-badge)](https://www.facebook.com/luis0.huicho/) 
-<img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+<a href="https://www.youtube.com/@luissan1881" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="@luissan1881"  />
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://instagram.com/jolu_santii)
 
 <!--[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge)]()
