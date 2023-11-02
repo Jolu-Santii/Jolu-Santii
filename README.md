@@ -47,6 +47,8 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación de la BUAP y ten
 
 
 <br>
+<br>
+
 <h1 align="center"> Redes Sociales🌐 </h1>
 
 <body>
