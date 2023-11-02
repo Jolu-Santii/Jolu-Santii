@@ -45,6 +45,7 @@ Soy un estudiante de Ingeniería en Ciencias de la Computación de la BUAP y ten
 ¡Siéntete libre de explorar mis proyectos y seguirme en GitHub!
 
 
+
 <br>
 <h1 align="center"> Redes Sociales🌐 </h1>
 
