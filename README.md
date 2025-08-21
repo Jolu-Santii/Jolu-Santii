@@ -25,7 +25,7 @@
 
   </p>
  
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Sobre mi**
+**Sobre mi**
 
 
 Soy un estudiante de Ingeniería en Ciencias de la Computación de la BUAP y tengo 20 años. Me apasiona la tecnología y la programación, y estoy emocionado por aprender y crecer en este campo. Siempre estoy buscando nuevas oportunidades para aprender y colaborar en proyectos interesantes.
